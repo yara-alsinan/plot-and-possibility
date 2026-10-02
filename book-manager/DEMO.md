@@ -1,6 +1,6 @@
 # Demo and submission
 
-Suggested length: about 2–3 minutes. The assignment asks for a short narrated video, not a specific duration. Record your own voice and use words you understand. This is an outline, not a claim that the demo is finished.
+[The recorded demo is available here](demo/plot-and-possibility-demo.mp4) (3:27, compressed MP4). The outline below was used to prepare it. The assignment asks for a short narrated video, not a specific duration.
 
 ## Before recording
 
@@ -20,9 +20,9 @@ If useful, briefly show `workflows/get_recommendations.sh` to point out `&`, `$!
 ## Before submitting
 
 - [ ] Read the walkthrough and explain each required file in your own words.
-- [ ] Create a repository in your own GitHub account and push this complete project.
-- [ ] Record the narrated terminal demo.
-- [ ] Add the video or a visible video link to the repository's root README.
+- [x] Create a repository in your own GitHub account and push this complete project.
+- [x] Record the narrated terminal demo.
+- [x] Add the video or a visible video link to the repository's root README.
 - [ ] Check that the video is viewable by the instructor.
 - [ ] Open the GitHub repository and confirm the README and `book-manager/` folder are visible.
 - [ ] Enter the repository URL under **Assignment No 2** in the class sign-up sheet linked in the assignment PDF.

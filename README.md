@@ -22,9 +22,13 @@ Python 3 is used only inside the data layer for correct CSV handling. If `python
 
 The reading profile focuses on dystopian fiction, rom-coms, period fiction, and history, with an offline catalog including Suzanne Collins, George Orwell, and Abby Jimenez. Discovery recommendations introduce practical personal finance, startup building, and habits or focus. The history strategy uses saved genres and gives extra weight to finished or highly rated books, while ignoring books rated 1 or 2. The interests strategy follows `config/interests.txt`; discovery follows `config/discovery.txt` and prefers genres not yet in the library. The refiner removes saved books and duplicates and keeps up to two recommendations per strategy, with one per genre within each strategy. This balances familiar reading with learning something new.
 
-## Demo video — still to be recorded
+## Demo video
 
-The required narrated demo has not been recorded yet. Before submitting, add the video to this repository or replace this paragraph with a clearly visible link. [Demo outline and submission checklist](book-manager/DEMO.md).
+**[Watch or download the narrated demo (MP4, 3:27)](book-manager/demo/plot-and-possibility-demo.mp4)**
+
+The demo shows adding a book, searching the saved library, and generating and saving recommendations. The recording is compressed using the instructor's 720p AV1 settings with mono AAC audio.
+
+Clarification: adding a book through the app updates the saved library, not the recommendation catalog. Expanding the offline catalog requires editing `book-manager/catalog/books.tsv`.
 
 ## Understand and test it
 
