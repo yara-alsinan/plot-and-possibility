@@ -24,7 +24,7 @@ The reading profile focuses on dystopian fiction, rom-coms, period fiction, and 
 
 ## Demo video
 
-**[Watch or download the narrated demo (MP4, 3:27)](book-manager/demo/plot-and-possibility-demo.mp4)**
+**[Download and watch the narrated demo (MP4, 3:27, about 3 MB)](https://github.com/yara-alsinan/plot-and-possibility/raw/refs/heads/main/book-manager/demo/plot-and-possibility-demo.mp4)**
 
 The demo shows adding a book, searching the saved library, and generating and saving recommendations. The recording is compressed using the instructor's 720p AV1 settings with mono AAC audio.
 
