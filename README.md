@@ -12,7 +12,7 @@ cd book-manager
 ./app.sh
 ```
 
-Python 3 is used only inside the data layer for correct CSV handling. If `python3 --version` fails, install Python 3 first. Use the arrow keys and Enter to select menu items; Esc goes back. Start with **Add Book** and try `The Hunger Games`, `1984`, or `Part of Your World`. Books outside the catalog can be entered manually. The library starts empty; saving a book does not imply you have read it.
+Python 3 is used only inside the data layer for correct CSV handling. If `python3 --version` fails, install Python 3 first. Use the arrow keys and Enter to select menu items; Esc goes back. Start with **Add Book** and try `The Hunger Games`, `1984`, or `Part of Your World`. Books outside the catalog can be entered manually. The repository includes my saved library; saving a book does not imply I have read it.
 
 ## Architecture
 
